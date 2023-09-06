@@ -1,0 +1,16 @@
+{
+  "name": "selenium-edge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test01"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "edgedriver": "^5.3.6",
+    "selenium-webdriver": "^4.12.0"
+  }
+}
